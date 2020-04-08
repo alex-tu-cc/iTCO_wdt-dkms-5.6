@@ -1,0 +1,2 @@
+obj-m	+=iTCO_wdt.o
+EXTRA_CFLAGS = -g
